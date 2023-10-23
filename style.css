@@ -125,6 +125,11 @@ body {
   gap: 10px;
 }
 
+.results .low-opacity-text:last-child{
+  max-width: 14em;
+}
+
+
 .results__shape {
   background: var(--gradient-2);
   border-radius: 100%;
