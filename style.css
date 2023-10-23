@@ -262,7 +262,4 @@ body {
     gap: 0px;
   }
 
-  .low-opacity-text {
-    font-size: var(--fs-600);
-  }
 }
