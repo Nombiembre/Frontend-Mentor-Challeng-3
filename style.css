@@ -127,6 +127,7 @@ body {
 
 .results .low-opacity-text:last-child{
   max-width: 14em;
+  margin-inline: auto;
 }
 
 
