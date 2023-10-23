@@ -163,6 +163,7 @@ body {
   padding: .9rem .75rem;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .red-box {
@@ -188,6 +189,7 @@ body {
 .flexy {
   display: flex;
   gap: .7em;
+  flex-wrap: wrap;
 }
 
 .button {
